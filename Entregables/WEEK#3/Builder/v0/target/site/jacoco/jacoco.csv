@@ -1,0 +1,9 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+decoratoracademyid,com.builder,Car.CarBuilder,0,29,0,0,0,11,0,5,0,5
+decoratoracademyid,com.builder,VehicleConfiguration,44,0,0,0,16,0,2,0,2,0
+decoratoracademyid,com.builder,Motorcycle.MotorcycleBuilder,0,19,0,0,0,7,0,3,0,3
+decoratoracademyid,com.builder,Motorcycle,0,19,0,0,0,5,0,2,0,2
+decoratoracademyid,com.builder,Truck,0,19,0,0,0,5,0,2,0,2
+decoratoracademyid,com.builder,Car,0,31,0,0,0,8,0,2,0,2
+decoratoracademyid,com.builder,Vehicle,6,15,0,0,1,6,1,3,1,3
+decoratoracademyid,com.builder,Truck.TruckBuilder,0,19,0,0,0,7,0,3,0,3
