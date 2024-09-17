@@ -21,7 +21,7 @@ public class AccountService {
 
     // service to create a new account
     public Account createAccount(Account account) {
-        account.setBalance(BigDecimal.ZERO); // Inicia con saldo cero
+        account.setBalance(BigDecimal.ZERO); // start with zero 
         return accountRepo.save(account);
     }
 
