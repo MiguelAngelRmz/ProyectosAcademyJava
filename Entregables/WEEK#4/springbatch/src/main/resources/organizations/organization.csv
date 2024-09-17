@@ -1,6 +1,506 @@
-id,name,country,employees
+ID,Company Name,Country,Employees
 1,Acme Corp,USA,150
 2,Tech Solutions,Canada,85
 3,Innovate Ltd,UK,200
 4,Global Enterprises,India,120
 5,NextGen Technologies,Germany,95
+6,Eagle Industries 6,Australia,56
+7,Pioneer Corp 7,Mexico,57
+8,Visionary Works 8,Spain,58
+9,StarTech Innovations 9,Japan,59
+10,MetroTech 10,China,60
+11,GreenLight Corp 11,Brazil,61
+12,Eco Enterprises 12,Italy,62
+13,Skyline Technologies 13,Netherlands,63
+14,Omega Systems 14,Sweden,64
+15,Next Level Inc. 15,USA,65
+16,Dynamic Ventures 16,Canada,66
+17,Prime Innovators 17,UK,67
+18,PulseTech 18,India,68
+19,Infinity Labs 19,Germany,69
+20,Tech World 20,France,70
+21,Creative Minds 21,Australia,71
+22,Future Labs 22,Mexico,72
+23,Alpha Systems 23,Spain,73
+24,Quantum Tech 24,Japan,74
+25,BlueWave Solutions 25,China,75
+26,Eagle Industries 26,Brazil,76
+27,Pioneer Corp 27,Italy,77
+28,Visionary Works 28,Netherlands,78
+29,StarTech Innovations 29,Sweden,79
+30,MetroTech 30,USA,80
+31,GreenLight Corp 31,Canada,81
+32,Eco Enterprises 32,UK,82
+33,Skyline Technologies 33,India,83
+34,Omega Systems 34,Germany,84
+35,Next Level Inc. 35,France,85
+36,Dynamic Ventures 36,Australia,86
+37,Prime Innovators 37,Mexico,87
+38,PulseTech 38,Spain,88
+39,Infinity Labs 39,Japan,89
+40,Tech World 40,China,90
+41,Creative Minds 41,Brazil,91
+42,Future Labs 42,Italy,92
+43,Alpha Systems 43,Netherlands,93
+44,Quantum Tech 44,Sweden,94
+45,BlueWave Solutions 45,USA,95
+46,Eagle Industries 46,Canada,96
+47,Pioneer Corp 47,UK,97
+48,Visionary Works 48,India,98
+49,StarTech Innovations 49,Germany,99
+50,MetroTech 50,France,100
+51,GreenLight Corp 51,Australia,101
+52,Eco Enterprises 52,Mexico,102
+53,Skyline Technologies 53,Spain,103
+54,Omega Systems 54,Japan,104
+55,Next Level Inc. 55,China,105
+56,Dynamic Ventures 56,Brazil,106
+57,Prime Innovators 57,Italy,107
+58,PulseTech 58,Netherlands,108
+59,Infinity Labs 59,Sweden,109
+60,Tech World 60,USA,110
+61,Creative Minds 61,Canada,111
+62,Future Labs 62,UK,112
+63,Alpha Systems 63,India,113
+64,Quantum Tech 64,Germany,114
+65,BlueWave Solutions 65,France,115
+66,Eagle Industries 66,Australia,116
+67,Pioneer Corp 67,Mexico,117
+68,Visionary Works 68,Spain,118
+69,StarTech Innovations 69,Japan,119
+70,MetroTech 70,China,120
+71,GreenLight Corp 71,Brazil,121
+72,Eco Enterprises 72,Italy,122
+73,Skyline Technologies 73,Netherlands,123
+74,Omega Systems 74,Sweden,124
+75,Next Level Inc. 75,USA,125
+76,Dynamic Ventures 76,Canada,126
+77,Prime Innovators 77,UK,127
+78,PulseTech 78,India,128
+79,Infinity Labs 79,Germany,129
+80,Tech World 80,France,130
+81,Creative Minds 81,Australia,131
+82,Future Labs 82,Mexico,132
+83,Alpha Systems 83,Spain,133
+84,Quantum Tech 84,Japan,134
+85,BlueWave Solutions 85,China,135
+86,Eagle Industries 86,Brazil,136
+87,Pioneer Corp 87,Italy,137
+88,Visionary Works 88,Netherlands,138
+89,StarTech Innovations 89,Sweden,139
+90,MetroTech 90,USA,140
+91,GreenLight Corp 91,Canada,141
+92,Eco Enterprises 92,UK,142
+93,Skyline Technologies 93,India,143
+94,Omega Systems 94,Germany,144
+95,Next Level Inc. 95,France,145
+96,Dynamic Ventures 96,Australia,146
+97,Prime Innovators 97,Mexico,147
+98,PulseTech 98,Spain,148
+99,Infinity Labs 99,Japan,149
+100,Tech World 100,China,150
+101,Creative Minds 101,Brazil,151
+102,Future Labs 102,Italy,152
+103,Alpha Systems 103,Netherlands,153
+104,Quantum Tech 104,Sweden,154
+105,BlueWave Solutions 105,USA,155
+106,Eagle Industries 106,Canada,156
+107,Pioneer Corp 107,UK,157
+108,Visionary Works 108,India,158
+109,StarTech Innovations 109,Germany,159
+110,MetroTech 110,France,160
+111,GreenLight Corp 111,Australia,161
+112,Eco Enterprises 112,Mexico,162
+113,Skyline Technologies 113,Spain,163
+114,Omega Systems 114,Japan,164
+115,Next Level Inc. 115,China,165
+116,Dynamic Ventures 116,Brazil,166
+117,Prime Innovators 117,Italy,167
+118,PulseTech 118,Netherlands,168
+119,Infinity Labs 119,Sweden,169
+120,Tech World 120,USA,170
+121,Creative Minds 121,Canada,171
+122,Future Labs 122,UK,172
+123,Alpha Systems 123,India,173
+124,Quantum Tech 124,Germany,174
+125,BlueWave Solutions 125,France,175
+126,Eagle Industries 126,Australia,176
+127,Pioneer Corp 127,Mexico,177
+128,Visionary Works 128,Spain,178
+129,StarTech Innovations 129,Japan,179
+130,MetroTech 130,China,180
+131,GreenLight Corp 131,Brazil,181
+132,Eco Enterprises 132,Italy,182
+133,Skyline Technologies 133,Netherlands,183
+134,Omega Systems 134,Sweden,184
+135,Next Level Inc. 135,USA,185
+136,Dynamic Ventures 136,Canada,186
+137,Prime Innovators 137,UK,187
+138,PulseTech 138,India,188
+139,Infinity Labs 139,Germany,189
+140,Tech World 140,France,190
+141,Creative Minds 141,Australia,191
+142,Future Labs 142,Mexico,192
+143,Alpha Systems 143,Spain,193
+144,Quantum Tech 144,Japan,194
+145,BlueWave Solutions 145,China,195
+146,Eagle Industries 146,Brazil,196
+147,Pioneer Corp 147,Italy,197
+148,Visionary Works 148,Netherlands,198
+149,StarTech Innovations 149,Sweden,199
+150,MetroTech 150,USA,200
+151,GreenLight Corp 151,Canada,201
+152,Eco Enterprises 152,UK,202
+153,Skyline Technologies 153,India,203
+154,Omega Systems 154,Germany,204
+155,Next Level Inc. 155,France,205
+156,Dynamic Ventures 156,Australia,206
+157,Prime Innovators 157,Mexico,207
+158,PulseTech 158,Spain,208
+159,Infinity Labs 159,Japan,209
+160,Tech World 160,China,210
+161,Creative Minds 161,Brazil,211
+162,Future Labs 162,Italy,212
+163,Alpha Systems 163,Netherlands,213
+164,Quantum Tech 164,Sweden,214
+165,BlueWave Solutions 165,USA,215
+166,Eagle Industries 166,Canada,216
+167,Pioneer Corp 167,UK,217
+168,Visionary Works 168,India,218
+169,StarTech Innovations 169,Germany,219
+170,MetroTech 170,France,220
+171,GreenLight Corp 171,Australia,221
+172,Eco Enterprises 172,Mexico,222
+173,Skyline Technologies 173,Spain,223
+174,Omega Systems 174,Japan,224
+175,Next Level Inc. 175,China,225
+176,Dynamic Ventures 176,Brazil,226
+177,Prime Innovators 177,Italy,227
+178,PulseTech 178,Netherlands,228
+179,Infinity Labs 179,Sweden,229
+180,Tech World 180,USA,230
+181,Creative Minds 181,Canada,231
+182,Future Labs 182,UK,232
+183,Alpha Systems 183,India,233
+184,Quantum Tech 184,Germany,234
+185,BlueWave Solutions 185,France,235
+186,Eagle Industries 186,Australia,236
+187,Pioneer Corp 187,Mexico,237
+188,Visionary Works 188,Spain,238
+189,StarTech Innovations 189,Japan,239
+190,MetroTech 190,China,240
+191,GreenLight Corp 191,Brazil,241
+192,Eco Enterprises 192,Italy,242
+193,Skyline Technologies 193,Netherlands,243
+194,Omega Systems 194,Sweden,244
+195,Next Level Inc. 195,USA,245
+196,Dynamic Ventures 196,Canada,246
+197,Prime Innovators 197,UK,247
+198,PulseTech 198,India,248
+199,Infinity Labs 199,Germany,249
+200,Tech World 200,France,50
+201,Creative Minds 201,Australia,51
+202,Future Labs 202,Mexico,52
+203,Alpha Systems 203,Spain,53
+204,Quantum Tech 204,Japan,54
+205,BlueWave Solutions 205,China,55
+206,Eagle Industries 206,Brazil,56
+207,Pioneer Corp 207,Italy,57
+208,Visionary Works 208,Netherlands,58
+209,StarTech Innovations 209,Sweden,59
+210,MetroTech 210,USA,60
+211,GreenLight Corp 211,Canada,61
+212,Eco Enterprises 212,UK,62
+213,Skyline Technologies 213,India,63
+214,Omega Systems 214,Germany,64
+215,Next Level Inc. 215,France,65
+216,Dynamic Ventures 216,Australia,66
+217,Prime Innovators 217,Mexico,67
+218,PulseTech 218,Spain,68
+219,Infinity Labs 219,Japan,69
+220,Tech World 220,China,70
+221,Creative Minds 221,Brazil,71
+222,Future Labs 222,Italy,72
+223,Alpha Systems 223,Netherlands,73
+224,Quantum Tech 224,Sweden,74
+225,BlueWave Solutions 225,USA,75
+226,Eagle Industries 226,Canada,76
+227,Pioneer Corp 227,UK,77
+228,Visionary Works 228,India,78
+229,StarTech Innovations 229,Germany,79
+230,MetroTech 230,France,80
+231,GreenLight Corp 231,Australia,81
+232,Eco Enterprises 232,Mexico,82
+233,Skyline Technologies 233,Spain,83
+234,Omega Systems 234,Japan,84
+235,Next Level Inc. 235,China,85
+236,Dynamic Ventures 236,Brazil,86
+237,Prime Innovators 237,Italy,87
+238,PulseTech 238,Netherlands,88
+239,Infinity Labs 239,Sweden,89
+240,Tech World 240,USA,90
+241,Creative Minds 241,Canada,91
+242,Future Labs 242,UK,92
+243,Alpha Systems 243,India,93
+244,Quantum Tech 244,Germany,94
+245,BlueWave Solutions 245,France,95
+246,Eagle Industries 246,Australia,96
+247,Pioneer Corp 247,Mexico,97
+248,Visionary Works 248,Spain,98
+249,StarTech Innovations 249,Japan,99
+250,MetroTech 250,China,100
+251,GreenLight Corp 251,Brazil,101
+252,Eco Enterprises 252,Italy,102
+253,Skyline Technologies 253,Netherlands,103
+254,Omega Systems 254,Sweden,104
+255,Next Level Inc. 255,USA,105
+256,Dynamic Ventures 256,Canada,106
+257,Prime Innovators 257,UK,107
+258,PulseTech 258,India,108
+259,Infinity Labs 259,Germany,109
+260,Tech World 260,France,110
+261,Creative Minds 261,Australia,111
+262,Future Labs 262,Mexico,112
+263,Alpha Systems 263,Spain,113
+264,Quantum Tech 264,Japan,114
+265,BlueWave Solutions 265,China,115
+266,Eagle Industries 266,Brazil,116
+267,Pioneer Corp 267,Italy,117
+268,Visionary Works 268,Netherlands,118
+269,StarTech Innovations 269,Sweden,119
+270,MetroTech 270,USA,120
+271,GreenLight Corp 271,Canada,121
+272,Eco Enterprises 272,UK,122
+273,Skyline Technologies 273,India,123
+274,Omega Systems 274,Germany,124
+275,Next Level Inc. 275,France,125
+276,Dynamic Ventures 276,Australia,126
+277,Prime Innovators 277,Mexico,127
+278,PulseTech 278,Spain,128
+279,Infinity Labs 279,Japan,129
+280,Tech World 280,China,130
+281,Creative Minds 281,Brazil,131
+282,Future Labs 282,Italy,132
+283,Alpha Systems 283,Netherlands,133
+284,Quantum Tech 284,Sweden,134
+285,BlueWave Solutions 285,USA,135
+286,Eagle Industries 286,Canada,136
+287,Pioneer Corp 287,UK,137
+288,Visionary Works 288,India,138
+289,StarTech Innovations 289,Germany,139
+290,MetroTech 290,France,140
+291,GreenLight Corp 291,Australia,141
+292,Eco Enterprises 292,Mexico,142
+293,Skyline Technologies 293,Spain,143
+294,Omega Systems 294,Japan,144
+295,Next Level Inc. 295,China,145
+296,Dynamic Ventures 296,Brazil,146
+297,Prime Innovators 297,Italy,147
+298,PulseTech 298,Netherlands,148
+299,Infinity Labs 299,Sweden,149
+300,Tech World 300,USA,150
+301,Creative Minds 301,Canada,151
+302,Future Labs 302,UK,152
+303,Alpha Systems 303,India,153
+304,Quantum Tech 304,Germany,154
+305,BlueWave Solutions 305,France,155
+306,Eagle Industries 306,Australia,156
+307,Pioneer Corp 307,Mexico,157
+308,Visionary Works 308,Spain,158
+309,StarTech Innovations 309,Japan,159
+310,MetroTech 310,China,160
+311,GreenLight Corp 311,Brazil,161
+312,Eco Enterprises 312,Italy,162
+313,Skyline Technologies 313,Netherlands,163
+314,Omega Systems 314,Sweden,164
+315,Next Level Inc. 315,USA,165
+316,Dynamic Ventures 316,Canada,166
+317,Prime Innovators 317,UK,167
+318,PulseTech 318,India,168
+319,Infinity Labs 319,Germany,169
+320,Tech World 320,France,170
+321,Creative Minds 321,Australia,171
+322,Future Labs 322,Mexico,172
+323,Alpha Systems 323,Spain,173
+324,Quantum Tech 324,Japan,174
+325,BlueWave Solutions 325,China,175
+326,Eagle Industries 326,Brazil,176
+327,Pioneer Corp 327,Italy,177
+328,Visionary Works 328,Netherlands,178
+329,StarTech Innovations 329,Sweden,179
+330,MetroTech 330,USA,180
+331,GreenLight Corp 331,Canada,181
+332,Eco Enterprises 332,UK,182
+333,Skyline Technologies 333,India,183
+334,Omega Systems 334,Germany,184
+335,Next Level Inc. 335,France,185
+336,Dynamic Ventures 336,Australia,186
+337,Prime Innovators 337,Mexico,187
+338,PulseTech 338,Spain,188
+339,Infinity Labs 339,Japan,189
+340,Tech World 340,China,190
+341,Creative Minds 341,Brazil,191
+342,Future Labs 342,Italy,192
+343,Alpha Systems 343,Netherlands,193
+344,Quantum Tech 344,Sweden,194
+345,BlueWave Solutions 345,USA,195
+346,Eagle Industries 346,Canada,196
+347,Pioneer Corp 347,UK,197
+348,Visionary Works 348,India,198
+349,StarTech Innovations 349,Germany,199
+350,MetroTech 350,France,200
+351,GreenLight Corp 351,Australia,201
+352,Eco Enterprises 352,Mexico,202
+353,Skyline Technologies 353,Spain,203
+354,Omega Systems 354,Japan,204
+355,Next Level Inc. 355,China,205
+356,Dynamic Ventures 356,Brazil,206
+357,Prime Innovators 357,Italy,207
+358,PulseTech 358,Netherlands,208
+359,Infinity Labs 359,Sweden,209
+360,Tech World 360,USA,210
+361,Creative Minds 361,Canada,211
+362,Future Labs 362,UK,212
+363,Alpha Systems 363,India,213
+364,Quantum Tech 364,Germany,214
+365,BlueWave Solutions 365,France,215
+366,Eagle Industries 366,Australia,216
+367,Pioneer Corp 367,Mexico,217
+368,Visionary Works 368,Spain,218
+369,StarTech Innovations 369,Japan,219
+370,MetroTech 370,China,220
+371,GreenLight Corp 371,Brazil,221
+372,Eco Enterprises 372,Italy,222
+373,Skyline Technologies 373,Netherlands,223
+374,Omega Systems 374,Sweden,224
+375,Next Level Inc. 375,USA,225
+376,Dynamic Ventures 376,Canada,226
+377,Prime Innovators 377,UK,227
+378,PulseTech 378,India,228
+379,Infinity Labs 379,Germany,229
+380,Tech World 380,France,230
+381,Creative Minds 381,Australia,231
+382,Future Labs 382,Mexico,232
+383,Alpha Systems 383,Spain,233
+384,Quantum Tech 384,Japan,234
+385,BlueWave Solutions 385,China,235
+386,Eagle Industries 386,Brazil,236
+387,Pioneer Corp 387,Italy,237
+388,Visionary Works 388,Netherlands,238
+389,StarTech Innovations 389,Sweden,239
+390,MetroTech 390,USA,240
+391,GreenLight Corp 391,Canada,241
+392,Eco Enterprises 392,UK,242
+393,Skyline Technologies 393,India,243
+394,Omega Systems 394,Germany,244
+395,Next Level Inc. 395,France,245
+396,Dynamic Ventures 396,Australia,246
+397,Prime Innovators 397,Mexico,247
+398,PulseTech 398,Spain,248
+399,Infinity Labs 399,Japan,249
+400,Tech World 400,China,50
+401,Creative Minds 401,Brazil,51
+402,Future Labs 402,Italy,52
+403,Alpha Systems 403,Netherlands,53
+404,Quantum Tech 404,Sweden,54
+405,BlueWave Solutions 405,USA,55
+406,Eagle Industries 406,Canada,56
+407,Pioneer Corp 407,UK,57
+408,Visionary Works 408,India,58
+409,StarTech Innovations 409,Germany,59
+410,MetroTech 410,France,60
+411,GreenLight Corp 411,Australia,61
+412,Eco Enterprises 412,Mexico,62
+413,Skyline Technologies 413,Spain,63
+414,Omega Systems 414,Japan,64
+415,Next Level Inc. 415,China,65
+416,Dynamic Ventures 416,Brazil,66
+417,Prime Innovators 417,Italy,67
+418,PulseTech 418,Netherlands,68
+419,Infinity Labs 419,Sweden,69
+420,Tech World 420,USA,70
+421,Creative Minds 421,Canada,71
+422,Future Labs 422,UK,72
+423,Alpha Systems 423,India,73
+424,Quantum Tech 424,Germany,74
+425,BlueWave Solutions 425,France,75
+426,Eagle Industries 426,Australia,76
+427,Pioneer Corp 427,Mexico,77
+428,Visionary Works 428,Spain,78
+429,StarTech Innovations 429,Japan,79
+430,MetroTech 430,China,80
+431,GreenLight Corp 431,Brazil,81
+432,Eco Enterprises 432,Italy,82
+433,Skyline Technologies 433,Netherlands,83
+434,Omega Systems 434,Sweden,84
+435,Next Level Inc. 435,USA,85
+436,Dynamic Ventures 436,Canada,86
+437,Prime Innovators 437,UK,87
+438,PulseTech 438,India,88
+439,Infinity Labs 439,Germany,89
+440,Tech World 440,France,90
+441,Creative Minds 441,Australia,91
+442,Future Labs 442,Mexico,92
+443,Alpha Systems 443,Spain,93
+444,Quantum Tech 444,Japan,94
+445,BlueWave Solutions 445,China,95
+446,Eagle Industries 446,Brazil,96
+447,Pioneer Corp 447,Italy,97
+448,Visionary Works 448,Netherlands,98
+449,StarTech Innovations 449,Sweden,99
+450,MetroTech 450,USA,100
+451,GreenLight Corp 451,Canada,101
+452,Eco Enterprises 452,UK,102
+453,Skyline Technologies 453,India,103
+454,Omega Systems 454,Germany,104
+455,Next Level Inc. 455,France,105
+456,Dynamic Ventures 456,Australia,106
+457,Prime Innovators 457,Mexico,107
+458,PulseTech 458,Spain,108
+459,Infinity Labs 459,Japan,109
+460,Tech World 460,China,110
+461,Creative Minds 461,Brazil,111
+462,Future Labs 462,Italy,112
+463,Alpha Systems 463,Netherlands,113
+464,Quantum Tech 464,Sweden,114
+465,BlueWave Solutions 465,USA,115
+466,Eagle Industries 466,Canada,116
+467,Pioneer Corp 467,UK,117
+468,Visionary Works 468,India,118
+469,StarTech Innovations 469,Germany,119
+470,MetroTech 470,France,120
+471,GreenLight Corp 471,Australia,121
+472,Eco Enterprises 472,Mexico,122
+473,Skyline Technologies 473,Spain,123
+474,Omega Systems 474,Japan,124
+475,Next Level Inc. 475,China,125
+476,Dynamic Ventures 476,Brazil,126
+477,Prime Innovators 477,Italy,127
+478,PulseTech 478,Netherlands,128
+479,Infinity Labs 479,Sweden,129
+480,Tech World 480,USA,130
+481,Creative Minds 481,Canada,131
+482,Future Labs 482,UK,132
+483,Alpha Systems 483,India,133
+484,Quantum Tech 484,Germany,134
+485,BlueWave Solutions 485,France,135
+486,Eagle Industries 486,Australia,136
+487,Pioneer Corp 487,Mexico,137
+488,Visionary Works 488,Spain,138
+489,StarTech Innovations 489,Japan,139
+490,MetroTech 490,China,140
+491,GreenLight Corp 491,Brazil,141
+492,Eco Enterprises 492,Italy,142
+493,Skyline Technologies 493,Netherlands,143
+494,Omega Systems 494,Sweden,144
+495,Next Level Inc. 495,USA,145
+496,Dynamic Ventures 496,Canada,146
+497,Prime Innovators 497,UK,147
+498,PulseTech 498,India,148
+499,Infinity Labs 499,Germany,149
+500,Tech World 500,France,150
+501,Creative Minds 501,Australia,151
+502,Future Labs 502,Mexico,152
+503,Alpha Systems 503,Spain,153
+504,Quantum Tech 504,Japan,154
+505,BlueWave Solutions 505,China,155
